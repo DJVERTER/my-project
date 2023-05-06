@@ -1,0 +1,2 @@
+Fourth file text > fourth_file.txt
+echo ""Fifth file text
